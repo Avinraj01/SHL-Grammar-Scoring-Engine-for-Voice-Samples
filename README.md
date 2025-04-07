@@ -73,6 +73,6 @@ Mind Map - Improvements
 ---
 
 ## 👤 Author
-**Crafted with care by [Your Name]** ✨
+**Crafted with care by [Avin Raj]** ✨
 
 📬 For queries or collaborations, feel free to reach out!
