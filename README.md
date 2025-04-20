@@ -4,7 +4,6 @@
 # SHL- Grammar Scoring Engine for Voice Samples
 
 🎤 **Predict Grammar Scores from Spoken Audio**
-
 ---
 
 ## 🧠 Objective
