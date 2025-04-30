@@ -1,5 +1,4 @@
-
- [![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczNxUQ0exFkiS3G181QaiLlGtArSP0-IJ-2rvWiFi-m4ZJpkWLv9DxQtpXWGONjQQPVif84n5ogj5N73oEAcNzcM9OvXG2oH4Mdl1wzmIiqZL4bsQ2K07WXukfTUyGqKiiRH_OdBMdNzgx-XIkF9DxMN=w1122-h470-s-no-gm?authuser=0)](https://Avinraj01.io)
+ [![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczPPy0Rofqxbl1kXQIYXXfd3zicZ3cCsDQdIIy9MI_1KNVmtn-qBGuiyBPhNoWA0ZNGOWvKGDPXo7GqS9raf_dhgB0YTDka5y_75QL_-eGfK4i_J1i6sp9tH7feCinyynsvPQmJJXWPCB7d6KRuDKJ55=w800-h350-s-no-gm?authuser=0)](https://Avinraj01.io)
 
 
 # SHL- Grammar Scoring Engine for Voice Samples
