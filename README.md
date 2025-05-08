@@ -24,7 +24,6 @@ Mind Map - Dataset
 │   └── filename only
 └── sample_submission.csv
     └── sample format for output
-```
 
 ---
 
