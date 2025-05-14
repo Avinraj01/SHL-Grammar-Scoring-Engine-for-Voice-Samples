@@ -4,7 +4,6 @@
 
 🎤 **Predict Grammar Scores from Spoken Audio**
 ---
-
 ## 🧠 Objective
 Build a machine learning model that can automatically evaluate spoken audio and assign a **grammar score (1–5)** based on sentence structure and syntax quality.
 
